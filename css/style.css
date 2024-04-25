@@ -89,7 +89,7 @@
 .about__conteudo {
     background-color: var(--fundoAzul);
     width: 100%;
-    height: 350px;
+    height: 400px;
     padding: 16px;
     
 }
@@ -334,13 +334,13 @@
 
 /* INICIO TABLET */
 
+
+
+
+
+
+
 @media(min-width: 834px){
-
-
-
-
-
-
 
 
 
